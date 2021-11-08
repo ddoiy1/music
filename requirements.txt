@@ -1,0 +1,11 @@
+discord.py==1.7.3
+VoiceChannel
+commands
+YoutudeDL
+bs4
+webdriver
+Options
+get
+FFmpegPCMAudio
+asyncio
+time
